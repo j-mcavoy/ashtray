@@ -1,0 +1,86 @@
+Anagramhays
+word, pig_latin
+h, hay
+c, cay
+r, ray
+f, fay
+d, day
+b, bay
+j, jay
+k, kay
+g, gay
+w, way
+t, tay
+n, nay
+pr, pray
+dr, dray
+ko, okay
+sun, unsay
+tres, estray
+raff, affray
+rest, estray
+lout, outlay
+stout, outstay
+touts, outstay
+trash, ashtray
+lover, overlay
+plover, overplay
+stover, overstay
+linter, interlay
+plunder, underplay
+
+
+Yahmarganas
+word, (pig_latin), nital_gip
+r (ray), yar
+m (may), yam
+p (pay), yap
+k (kay), yak
+g (gay), yag
+w (way), yaw
+re (eray), yare
+dr (dray), yard
+sm (smay), yams
+gi (igay), yagi
+hoo (oohay), yahoo
+knee (eeknay), yankee
+
+
+Yahmarganas 2
+word, (drow) pig_latin
+h, (h) hay
+c, (c) cay
+r, (r) ray
+f, (f) fay
+d, (d) day
+b, (b) bay
+j, (j) jay
+k, (k) kay
+g, (g) gay
+w, (w) way
+t, (t) tay
+n, (n) nay
+ps, (sp) spay
+aw, (wa) away
+lp, (pl) play
+ok, (ko) okay
+nil, (lin) inlay
+ess, (sse) essay
+nus, (sun) unsay
+all, (lla) allay
+
+
+Yahmarganas 3
+word (drow), (pig_latin) nital_gip
+r (r), (ray) yar
+m (m), (may) yam
+p (p), (pay) yap
+k (k), (kay) yak
+g (g), (gay) yag
+w (w), (way) yaw
+ps (sp), (spay) yaps
+ms (sm), (smay) yams
+nk (kn), (knay) yank
+ooh (hoo), (oohay) yahoo
+rant (tnar), (artnay) yantra
+keen (neek), (eeknay) yankee

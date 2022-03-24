@@ -26,7 +26,7 @@ For example:
 - **ashtray** is **trash** in Pig Latin
 - **overlay** is **lover** in Pig Latin
 
-### What is an Yahmargana?
+### What is a Yahmargana?
 
 A **Yahmargana** is like an **Anagramhay**, but you reverse the order of a word to make it into a **Anagramha**.
 
@@ -46,9 +46,9 @@ I then created a CLI program _ashtray_ which checks for any Anagramhays or Yahma
 
 ## Findings
 
-The instal results showed about 100 Anagramhays and Yahmarganas out of the 376k word list. However some of these matched words would get you smacked if you tried to play them in Scrabble. These are words that are really acronyms, proper nouns, and old-timey spellings of other words and so they aren't as satisfying as some of the other _wordy_ words.
+The initial results showed about 100 Anagramhays and Yahmarganas out of the 376k word list. However some of these matched words will get you smacked if you tried to play them in Scrabble -- theay are just acronyms, abbreviations, proper nouns, and old-timey spellings of other words and so they aren't as satisfying as some of the other _wordy_ words.
 
-So, I added an additional filter which cross-checks the matches with Marriam-Webster's online dictionary and only words that are either a noun, adjective, or verb are included in the final `matches.txt`. There are still some 1-2 letter words that pass this test, if you exclude these, you get the following list:
+So, I added an additional filter which cross-checks the matches with Marriam-Webster's online dictionary and only words that are either a noun, adjective, or verb are included in the final `matches.txt`. There are still some 1-2 letter words that aren't common words so if you exclude these, you get the following list:
 
 ### Anagramhays
 
